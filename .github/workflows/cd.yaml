@@ -9,7 +9,7 @@ on:
   push:
     branches:
       - main
-
+      
 # 2. Permissions: Grant the necessary permissions for the workflow to deploy to GitHub Pages.
 permissions:
   contents: read
