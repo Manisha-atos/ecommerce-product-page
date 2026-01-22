@@ -60,5 +60,5 @@ jobs: # Top-level element, starts at column 0
       # Executes the 'npm run build' script defined in your package.json.
       # This step compiles your React project for production, verifying that it can be successfully built
       # and catches any build-time errors.
-      - name: Build project # Indented 2 spaces from 'steps'
+      - name: Build project New # Indented 2 spaces from 'steps'
         run: npm run build # Indented 2 spaces from 'name'
